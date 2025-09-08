@@ -2,14 +2,14 @@
 
 ## About Me 🚀
 
-I'm an enthusiastic **software engineering student** with a strong interest in **back-end development**.  
-I enjoy solving problems, learning new technologies, and working on creative projects that make an impact.  
+I'm an enthusiastic **software engineering student** with a strong interest in **back-end development**.
+I enjoy solving problems, learning new technologies, and working on creative projects that make an impact.
 
-- 🌱 Currently learning: **Advanced Back-End Development** (Python, Django, Django REST Framework, SQL, DevOps, Microservices, and more)  
-- 🔭 Focused on: **Improving my skills and deeply understanding how the Back-End works**  
-- 🌍 Languages I'm studying: **C++, JavaScript, Python, and Java**  
-- ⚡ Fun fact: I enjoy **reading books and papers, and I’m a big fan of playing football**  
-
+- 🌱 Currently learning: **Advanced Back-End Development** (Python, Django, Django REST Framework, SQL, DevOps, Microservices, and more)
+- 🔭 Focused on: **Improving my skills and deeply understanding how the Back-End works**
+- 🤝 Passionate about: **Contributing to Open Source projects**
+- 🌍 Languages I'm studying: **C++, JavaScript, Python, and Java**
+- ⚡ Fun fact: I enjoy **reading books and papers, and I’m a big fan of playing football**
 ---
 
 ## 🛠️ Skills & Tools  
