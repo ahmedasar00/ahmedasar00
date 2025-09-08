@@ -37,13 +37,7 @@ I enjoy solving problems, learning new technologies, and working on creative pro
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-
-<br><br><br><br>
-
-
-
-
-
+<br><br>
 
 ---
 
