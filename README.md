@@ -13,6 +13,9 @@ I enjoy solving problems, learning new technologies, and working on creative pro
 
 ---
 
+
+
+
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 
@@ -37,6 +40,10 @@ I enjoy solving problems, learning new technologies, and working on creative pro
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+
+
+
 
 ---
 
