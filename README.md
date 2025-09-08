@@ -10,6 +10,7 @@ I enjoy solving problems, learning new technologies, and working on creative pro
 - 🤝 Passionate about: **Contributing to Open Source projects**
 - 🌍 Languages I'm studying: **C++, JavaScript, Python, and Java**
 - ⚡ Fun fact: I enjoy **reading books and papers, and I’m a big fan of playing football**
+
 ---
 
 ## 🛠️ Skills & Tools  
@@ -46,10 +47,14 @@ I enjoy solving problems, learning new technologies, and working on creative pro
 - Caching strategies with **Redis / Memcached**  
 - Monitoring & bug tracking (Sentry, Bugzilla)  
 
-## 🔗 Let’s Connect  
+---
+### 📈 my github stats
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahmedasar00&show_icons=true&theme=gotham" alt="ahmedasar00" />
 
 ---
+
+## 🔗 Let’s Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-asar-466aa5283/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ahmedasartech)
