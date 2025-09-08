@@ -24,4 +24,4 @@ I'm an enthusiastic **software engineering student** with a strong interest in *
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-asar-466aa5283/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AhmedAsar22)
-[![Email](https://img.shields.io/badge/Email-ahmedasar22@outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedasar22@outlook.com)
+[![Email](https://img.shields.io/badge/Email-ahmedasar22@outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedasartech@outlook.com)
