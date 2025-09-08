@@ -8,7 +8,6 @@ I enjoy solving problems, learning new technologies, and working on creative pro
 - 🌱 Currently learning: **Advanced Back-End Development** (Python, Django, Django REST Framework, SQL, DevOps, Microservices, and more)
 - 🔭 Focused on: **Improving my skills and deeply understanding how the Back-End works**
 - 🤝 Passionate about: **Contributing to Open Source projects**
-- 🌍 Languages I'm studying: **C++, JavaScript, Python, and Java**
 - ⚡ Fun fact: I enjoy **reading books and papers, and I’m a big fan of playing football**
 
 
