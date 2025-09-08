@@ -38,7 +38,7 @@ I enjoy solving problems, learning new technologies, and working on creative pro
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 
-
+<br><br>
 
 ## 🚀 Currently Exploring  
 - Advanced SQL querying and database design  
