@@ -11,7 +11,7 @@ I enjoy solving problems, learning new technologies, and working on creative pro
 - 🌍 Languages I'm studying: **C++, JavaScript, Python, and Java**
 - ⚡ Fun fact: I enjoy **reading books and papers, and I’m a big fan of playing football**
 
----
+
 
 ## 🛠️ Skills & Tools  
 
