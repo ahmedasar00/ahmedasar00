@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm an enthusiastic **software engineering student** with a strong interest in **back-end development**.
+I'm an enthusiastic **software engineering student** with a strong interest in **Back-end development**.
 I enjoy solving problems, learning new technologies, and working on creative projects that make an impact.
 
 - 🌱 Currently learning: **Advanced Back-End Development** (Python, Django, Django REST Framework, SQL, DevOps, Microservices, and more)
