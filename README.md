@@ -1,18 +1,18 @@
 # Hi, I'm Ahmed Asar 👋
 
-## About Me 🚀
+## About Me 
 
 I'm an enthusiastic **software engineering student** with a strong interest in **Back-end development**.
 I enjoy solving problems, learning new technologies, and working on creative projects that make an impact.
 
-- 🌱 Currently learning: **Advanced Back-End Development** (Python, Django, Django REST Framework, SQL, DevOps, Microservices, and more)
-- 🔭 Focused on: **Improving my skills and deeply understanding how the Back-End works**
-- 🤝 Passionate about: **Contributing to Open Source projects**
-- ⚡ Fun fact: I enjoy **reading books and papers, and I’m a big fan of playing football**
+-  Currently learning: **Advanced Back-End Development** (Python, Django, Django REST Framework, SQL, DevOps, Microservices, and more)
+-  Focused on: **Improving my skills and deeply understanding how the Back-End works**
+-  Passionate about: **Contributing to Open Source projects**
+-  Fun fact: I enjoy **reading books and papers, and I’m a big fan of playing football**
 
 
 
-## 🛠️ Skills & Tools  
+##  Skills & Tools  
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
@@ -39,7 +39,7 @@ I enjoy solving problems, learning new technologies, and working on creative pro
 
 <br><br>
 
-## 🚀 Currently Exploring  
+##  Currently Exploring  
 - Advanced SQL querying and database design  
 - Microservices & Message Queues (RabbitMQ, Kafka)  
 - Containerization with **Docker & Kubernetes**  
