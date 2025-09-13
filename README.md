@@ -50,7 +50,7 @@ I enjoy solving problems, learning new technologies, and working on creative pro
 - Monitoring & bug tracking (Sentry, Bugzilla)  
 
 ---
-### 📈 my github stats
+## 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahmedasar00&show_icons=true&theme=gotham" alt="ahmedasar00" />
 
