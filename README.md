@@ -39,7 +39,7 @@ I enjoy solving problems, learning new technologies, and working on creative pro
 
 <br><br>
 
-##  Currently Exploring  
+###  Currently Exploring  
 - Advanced SQL querying and database design  
 - Microservices & Message Queues (RabbitMQ, Kafka)  
 - Containerization with **Docker & Kubernetes**  
