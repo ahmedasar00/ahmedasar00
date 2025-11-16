@@ -47,7 +47,6 @@ I enjoy solving problems, learning new technologies, and working on creative pro
 - Authentication & Authorization (JWT, OAuth, Django Auth System)  
 - Security best practices (SQL injection, CSRF, XSS)  
 - Caching strategies with **Redis / Memcached**  
-- Monitoring & bug tracking (Sentry, Bugzilla)  
 
 ---
 ## 📈 my github stats
