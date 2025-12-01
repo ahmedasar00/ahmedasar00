@@ -30,7 +30,7 @@ I enjoy solving problems, learning new technologies, and working on creative pro
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
@@ -41,8 +41,7 @@ I enjoy solving problems, learning new technologies, and working on creative pro
 
 ###  Currently Exploring  
 - Advanced SQL querying and database design  
-- Microservices & Message Queues (RabbitMQ, Kafka)  
-- Containerization with **Docker & Kubernetes**  
+- Containerization with **Docker**  
 - CI/CD pipelines with **Jenkins, GitHub Actions, Travis CI**  
 - Authentication & Authorization (JWT, OAuth, Django Auth System)  
 - Security best practices (SQL injection, CSRF, XSS)  
@@ -50,6 +49,7 @@ I enjoy solving problems, learning new technologies, and working on creative pro
 - Monitoring & bug tracking (Sentry, Bugzilla)  
 
 ---
+
 ## 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahmedasar00&show_icons=true&theme=gotham" alt="ahmedasar00" />
