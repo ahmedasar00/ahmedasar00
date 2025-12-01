@@ -1,18 +1,16 @@
 # Hi, I'm Ahmed Asar 👋
 
-## About Me 
+## About Me
 
 I'm an enthusiastic **software engineering student** with a strong interest in **Back-end development**.  
 I enjoy solving problems, learning new technologies, and working on creative projects that make an impact.
 
--  Recently mastered: **Advanced Back-End Development** with **Python, Django, Django REST Framework, SQL**, and foundational **DevOps & Microservices** concepts  
--  Focused on: **Deepening my understanding of scalable, secure, and maintainable back-end systems**  
--  Passionate about: **Contributing to Open Source projects**  
--  Fun fact: I enjoy **reading books and research papers, and I’m a big fan of playing football**
+- Recently mastered: **Advanced Back-End Development** with **Python, Django, Django REST Framework, SQL**, and foundational **DevOps & Microservices** concepts
+- Focused on: **Deepening my understanding of scalable, secure, and maintainable back-end systems**
+- Passionate about: **Contributing to Open Source projects**
+- Fun fact: I enjoy **reading books and research papers, and I’m a big fan of playing football**
 
-
-
-## Skills & Tools  
+## Skills & Tools
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
@@ -36,30 +34,30 @@ I enjoy solving problems, learning new technologies, and working on creative pro
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-
 <br><br>
 
-### 🛠️ Technologies I'm Deepening My Expertise In  
+### 🛠️ Technologies I'm Deepening My Expertise In
 
-- Advanced SQL querying, indexing, and relational database design  
-- Production-grade containerization with **Docker** (and exploring **Kubernetes**)  
-- Robust CI/CD pipelines using **GitHub Actions**, **Jenkins**, and **Travis CI**  
-- Secure authentication & authorization (**JWT**, **OAuth 2.0**, **Django Auth System**)  
-- Web security best practices (**SQL injection**, **XSS**, **CSRF**, **CORS**)  
-- High-performance caching strategies with **Redis** and **Memcached**  
+- Advanced SQL querying, indexing, and relational database design
+- Production-grade containerization with **Docker** (and exploring **Kubernetes**)
+- Robust CI/CD pipelines using **GitHub Actions**, **Jenkins**, and **Travis CI**
+- Secure authentication & authorization (**JWT**, **OAuth 2.0**, **Django Auth System**)
+- Web security best practices (**SQL injection**, **XSS**, **CSRF**, **CORS**)
+- High-performance caching strategies with **Redis** and **Memcached**
 - Application monitoring & error tracking (**Sentry**, **Bugzilla**)
 
 ---
 
 ## 📈 My GitHub Stats
 
+## 📈 My GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedasar00&show_icons=true&theme=gotham" alt="ahmedasar00" />
 </p>
+##
 
----
-
-## 🔗 Let’s Connect  
+## 🔗 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-asar-466aa5283/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ahmedasartech)
