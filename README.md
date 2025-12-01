@@ -2,17 +2,17 @@
 
 ## About Me 
 
-I'm an enthusiastic **software engineering student** with a strong interest in **Back-end development**.
+I'm an enthusiastic **software engineering student** with a strong interest in **Back-end development**.  
 I enjoy solving problems, learning new technologies, and working on creative projects that make an impact.
 
--  Currently learning: **Advanced Back-End Development** (Python, Django, Django REST Framework, SQL, DevOps, Microservices, and more)
--  Focused on: **Improving my skills and deeply understanding how the Back-End works**
--  Passionate about: **Contributing to Open Source projects**
--  Fun fact: I enjoy **reading books and papers, and I’m a big fan of playing football**
+-  Recently mastered: **Advanced Back-End Development** with **Python, Django, Django REST Framework, SQL**, and foundational **DevOps & Microservices** concepts  
+-  Focused on: **Deepening my understanding of scalable, secure, and maintainable back-end systems**  
+-  Passionate about: **Contributing to Open Source projects**  
+-  Fun fact: I enjoy **reading books and research papers, and I’m a big fan of playing football**
 
 
 
-##  Skills & Tools  
+## Skills & Tools  
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
@@ -39,24 +39,23 @@ I enjoy solving problems, learning new technologies, and working on creative pro
 
 <br><br>
 
-###  Currently Exploring  
-- Advanced SQL querying and database design  
-- Containerization with **Docker**  
-- CI/CD pipelines with **Jenkins, GitHub Actions, Travis CI**  
-- Authentication & Authorization (JWT, OAuth, Django Auth System)  
-- Security best practices (SQL injection, CSRF, XSS)  
-- Caching strategies with **Redis / Memcached**  
-- Monitoring & bug tracking (Sentry, Bugzilla)  
+### 🛠️ Technologies I'm Deepening My Expertise In  
+
+- Advanced SQL querying, indexing, and relational database design  
+- Production-grade containerization with **Docker** (and exploring **Kubernetes**)  
+- Robust CI/CD pipelines using **GitHub Actions**, **Jenkins**, and **Travis CI**  
+- Secure authentication & authorization (**JWT**, **OAuth 2.0**, **Django Auth System**)  
+- Web security best practices (**SQL injection**, **XSS**, **CSRF**, **CORS**)  
+- High-performance caching strategies with **Redis** and **Memcached**  
+- Application monitoring & error tracking (**Sentry**, **Bugzilla**)
 
 ---
 
-## 📈 my github stats
+## 📈 My GitHub Stats
 
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahmedasar00&show_icons=true&theme=gotham" alt="ahmedasar00" />
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedasar00&show_icons=true&theme=gotham" alt="ahmedasar00" />
+</p>
 
 ---
 
