@@ -48,15 +48,6 @@ I enjoy solving problems, learning new technologies, and working on creative pro
 
 ---
 
-## 📈 My GitHub Stats
-
-## 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedasar00&show_icons=true&theme=gotham" alt="ahmedasar00" />
-</p>
-##
-
 ## 🔗 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-asar-466aa5283/)
